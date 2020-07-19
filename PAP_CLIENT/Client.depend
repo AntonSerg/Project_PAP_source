@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1567948416 source:/home/2016/se/serhiien/Dokumenty/Programowanie klient-server/project/LasProject/Client/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567951647 source:/home/2016/se/serhiien/Dokumenty/Programowanie klient-server/project/LasProject/Client/Client.c
+	"Client.h"
+	<termios.h>
+	<unistd.h>
+	<stdio_ext.h>
+
+1567951753 /home/2016/se/serhiien/Dokumenty/Programowanie klient-server/project/LasProject/Client/Client.h
+	<errno.h>
+	<fcntl.h>
+	<signal.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<syslog.h>
+	<time.h>
+	<unistd.h>
+	<arpa/inet.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/stat.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
